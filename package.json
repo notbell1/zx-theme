@@ -4,6 +4,7 @@
   "description": "A professional dark theme with fresh deep red accents.",
   "version": "0.0.1",
   "publisher": "ZXMARCHIA",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
   },
