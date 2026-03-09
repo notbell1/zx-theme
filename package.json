@@ -1,0 +1,30 @@
+{
+  "name": "zx-theme",
+  "displayName": "ZX Theme",
+  "description": "A professional dark theme with fresh deep red accents.",
+  "version": "0.0.1",
+  "publisher": "ZXMARCHIA",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZX Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zx-theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZXMARCHIA/zx-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZXMARCHIA/zx-theme/issues"
+  },
+  "homepage": "https://github.com/ZXMARCHIA/zx-theme#readme"
+}
