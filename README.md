@@ -29,7 +29,7 @@ A professional, modern dark theme with **Fresh Deep Red** accents. Designed for 
 
 ## 🛠 Support
 
-If you find any issues or have suggestions, feel free to open an issue on [GitHub](https://github.com/ZXMARCHIA/zx-theme/issues).
+If you find any issues or have suggestions, feel free to open an issue on [GitHub](https://github.com/notbell1/zx-theme/issues).
 
 ---
 
