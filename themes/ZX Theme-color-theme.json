@@ -11,11 +11,16 @@
     "titleBar.activeBackground": "#120b0b",
     "statusBar.background": "#212121",
     "statusBar.foreground": "#ffffff",
-    "editor.selectionBackground": "#141414",
+
+    // Perbaikan Selection: Menggunakan merah transparan agar teks tetap terbaca
+    "editor.selectionBackground": "#ff000040",
     "editor.lineHighlightBackground": "#ffffff08",
+
+    // List & Sidebar
     "list.activeSelectionBackground": "#9b001a",
-    "list.inactiveSelectionBackground": "#9b001a",
-    "sideBar.border": "#9b001a"
+    "list.inactiveSelectionBackground": "#9b001a50",
+    "sideBar.border": "#9b001a",
+    "list.hoverBackground": "#ffffff10"
   },
   "tokenColors": [
     {

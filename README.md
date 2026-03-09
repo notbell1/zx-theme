@@ -1,16 +1,36 @@
-# zx-theme README
+# ZX Theme 🍎
 
-## Working with Markdown
+A professional, modern dark theme with **Fresh Deep Red** accents. Designed for developers who love high-contrast syntax highlighting and a clean, minimalist workspace.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Deep Charcoal Background**: Reduces eye strain during long coding sessions.
+- **Fresh Red Accents**: Vibrant red highlights (`#9b001a`) for keywords and UI elements.
+- **Balanced Contrast**: Perfectly tuned colors for PHP, JavaScript, Laravel, and Luau.
+- **Modern UI**: Clean sidebar, status bar, and activity bar for a distraction-free environment.
 
-## For more information
+## 🎨 Palette
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+| Element              | Hex Code  | Preview       |
+| :------------------- | :-------- | :------------ |
+| **Main Background**  | `#141414` | Dark Charcoal |
+| **Activity Bar**     | `#212121` | Slate Grey    |
+| **Accent Primary**   | `#ff0000` | Pure Red      |
+| **Accent Secondary** | `#00b221` | Neon Green    |
+| **Selection**        | `#9b001a` | Deep Blood    |
 
-**Enjoy!**
+## 🚀 Installation
+
+1. Open **Visual Studio Code**
+2. Go to **Extensions** (`Ctrl+Shift+X`)
+3. Search for `ZX Theme`
+4. Click **Install**
+5. Select **ZX Theme** as your color theme.
+
+## 🛠 Support
+
+If you find any issues or have suggestions, feel free to open an issue on [GitHub](https://github.com/ZXMARCHIA/zx-theme/issues).
+
+---
+
+**Enjoy coding with ZX Theme!** Developed by **ZXMARCHIA**
